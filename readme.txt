@@ -11,5 +11,8 @@ npm init playwright@latest
 To run the project use the command 
 npx playwright test 
 
+To view the report use the command:
+npx playwright show-report
+
 There is the possibility of generating a report with allure but the information that 
 playwright provides by itself is very accurate.
